@@ -14,6 +14,7 @@
 .alfaromeokép{
     float:right;
     width: 300px;
+    margin-left: 20px;
 }
 
 .senna{
@@ -26,10 +27,10 @@
     float: right;
     width: 400px;
     margin-left: 20px;
+    margin-top: 70px
 }
 
 .merci{
-    float:left;
     width: 500px;
     margin-right: 20px;
 }
@@ -38,3 +39,4 @@ table th, td{
     background-color: rgb(245, 173, 164);
     border: solid saddlebrown
 }
+

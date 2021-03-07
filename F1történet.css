@@ -8,6 +8,7 @@
 .brooklandspálya{
     float: left;
     width: 200px;
+    margin-right: 20px;
 }
 
 .alfaromeokép{
@@ -15,4 +16,19 @@
     width: 300px;
 }
 
-.senna{}
+.senna{
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.redbull{
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+}
+
+.merci{
+    float:left;
+    width: 500px;
+}

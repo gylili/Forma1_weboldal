@@ -9,5 +9,9 @@
 
 .brooklandspálya{
     float: left;
-    width: 350px;
+    width: 200px;
+}
+
+.alfaromeokép{
+    float:right;
 }
